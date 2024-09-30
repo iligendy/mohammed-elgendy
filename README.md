@@ -1,16 +1,16 @@
-## Hi there 👋
+Hi there 👋, I am Mohamed! 😁
+Hello, my name is Mohamed Elgendy and I am a  student at Port Said University majoring in Computer Science. I am a .net developer. My technology stack involves C#/Sql server, Entity framework, Mvc, Api, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in sports.
 
-<!--
-**mohammed-elgendy/mohammed-elgendy** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔭 I’m currently researching at the intersection of machine learning and databases with the IDEA Lab
+💬 Brainstorm with me over tech, algorithms, career, and sports.
+📫 How to reach me: moellgendy@gmail.com
+😄 Pronouns: Programmer/She/Her/Hers
+⚡ Fun fact: Checkout my Lean2Lead Pune Community if you are ambitious!
+📝 Resume
+Languages and Tools:
 
-Here are some ideas to get you started:
+Java   Spring   JavaScript   Python   C   Android   HTML5   CSS3   jQuery   Bootstrap   MySQL   Git   GitHub   LATEX  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Rashmi's Github Stats Top Langs
+
+Visitor Badge
