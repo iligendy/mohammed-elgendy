@@ -1,8 +1,9 @@
 
 # Hi there 👋, I am [Mohamed]! 😄
-Hello, my name is [Mohamed Elgendy] and I am a student at   [port said University ]. I am a .net developer. My technology stack involves C#/Sql server, Entity framework, Mvc, Api, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in sports.
+Hello, my name is [Mohamed Elgendy] and I am a student at   [port said University](https://psu.edu.eg/). I am a .net developer. My technology stack involves C#/Sql server, Entity framework, Mvc, Api, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in sports.
 
--🔭 I’m currently researching at the intersection of machine learning and databases.
+
+- 🔭 I’m currently researching at the intersection of machine learning and databases.
 - 📫 How to reach me: [here](www.linkedin.com/in/mohamed-elgendy-913531249).
 - 😄 Pronouns: Programmer/He/Him/His
 - ⚡ Fun fact: Check out my LinkedIn profile [here](www.linkedin.com/in/mohamed-elgendy-913531249) if you are ambitious!
