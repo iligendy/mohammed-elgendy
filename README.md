@@ -1,5 +1,5 @@
 
-# Hi there 👋, I am [Mohamed]! 😄
+# Hi there 👋, I am [Mohamed]! 
 Hello, my name is [Mohamed Elgendy] and I am a student at   [port said University](https://psu.edu.eg/). I am a .net developer. My technology stack involves C#/Sql server, Entity framework, Mvc, Api, javascript, Backbone.js, and, HTML/CSS/Bootstrap. Besides programming, I have an immense interest in sports.
 
 
